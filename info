@@ -1,0 +1,391 @@
+{
+  "uuid": "a3a9b8af7eadf800fe519744118454c8",
+  "path": "Offline/Carte thermostat",
+  "name": "Carte thermostat",
+  "content": "",
+  "created_at": "2021-03-20 14:30:06",
+  "updated_at": "2021-03-21 19:39:37",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "cc2626821e7ac5b0720495df9f458157",
+      "title": "Global",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2b8946b2183f431ca36c297473459104": 23,
+        "e545f26e87c74952857381bd0bff848e": 1,
+        "fd11c9e744c44aeab6011e8bd4c3ea86": 10,
+        "e33cc1be9d5e4d929dda60b4eb023d72": 4,
+        "a4eacdcb63554cb08b3b56477817ab57": 6,
+        "404aa9221ff94de597b8734806e7c74f": 5,
+        "8cb0931e7aee4571ab281a4f2e7b6e80": 1,
+        "7d247d1206b692d0bd0fc66f9e1ef1d6": 1,
+        "fcaba4851eda4ca19d4326a668633a30": 2,
+        "82d247382e044f299de9d680387f0d3c": 1,
+        "5cbe824183374fac8e4c1ae848199ce3": 3,
+        "fc572ebb78c842809cb573e783b220cf": 1,
+        "e7d3448bba334d44bb6c7a457f5f4175": 1,
+        "e4c84881bf28415ba8c64ccfa188e4f7": 1,
+        "ada16493d00d4c13a2b46f08d4eecd88": 1,
+        "0ca06cae4b2540dfac944485d2ece993": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1.8k",
+          1,
+          "",
+          "R18",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "0ca06cae4b2540dfac944485d2ece993"
+          }
+        ],
+        [
+          "?",
+          19,
+          "R1210",
+          "R1,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R19,R2,RP1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "c9096ef99b8540f5a8207dff5e428311",
+            "uuid": "2b8946b2183f431ca36c297473459104"
+          }
+        ],
+        [
+          "20k",
+          3,
+          "R1210",
+          "R20,R21,R22",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "c9096ef99b8540f5a8207dff5e428311",
+            "uuid": "2b8946b2183f431ca36c297473459104"
+          }
+        ],
+        [
+          "&#126;55R 1000w",
+          1,
+          "R1210",
+          "R_CHAUFFE",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "c9096ef99b8540f5a8207dff5e428311",
+            "uuid": "2b8946b2183f431ca36c297473459104"
+          }
+        ],
+        [
+          "Vf=1.7V",
+          1,
+          "LED0603_RED",
+          "LD3",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "BOM_Supplier Part": "C72044",
+            "BOM_Supplier": "LCSC",
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "?",
+          2,
+          "LED0603_RED",
+          "LD2,LD1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "BOM_Supplier Part": "C72044",
+            "BOM_Supplier": "LCSC",
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "BTB16-600SWRG",
+          1,
+          "TO-220-3_L10.0-W4.5-P2.54-L",
+          "TRI",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "BTB16-600CWRG",
+            "BOM_Manufacturer": "STMicroelectronics",
+            "BOM_Supplier Part": "C77576",
+            "BOM_LCSC Assembly": "Yes",
+            "BOM_Paste Type": "expand",
+            "puuid": "948e610cffd14df79f04c73832b1409b",
+            "uuid": "7d247d1206b692d0bd0fc66f9e1ef1d6"
+          }
+        ],
+        [
+          "Probe",
+          1,
+          "CONN-TH_2P-P5.00",
+          "P1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "be1b3456245c4373bfecde52b7e1b1d6",
+            "uuid": "8cb0931e7aee4571ab281a4f2e7b6e80"
+          }
+        ],
+        [
+          "?",
+          1,
+          "DO-41_BD2.4-L4.7-P8.70-D0.9-RD",
+          "DZ1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C241987",
+            "BOM_Manufacturer": "Vishay Intertech",
+            "BOM_Manufacturer Part": "1N4748A-TAP",
+            "BOM_LCSC Assembly": "Yes",
+            "BOM_Paste Type": "expand",
+            "puuid": "c2803222ad4b48fb94db0de548a6280a",
+            "uuid": "82d247382e044f299de9d680387f0d3c"
+          }
+        ],
+        [
+          "blanc épais",
+          1,
+          "HDR-M-2.54_1X1",
+          "CDC1",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "noir épais",
+          1,
+          "HDR-M-2.54_1X1",
+          "CDC2",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "Pilot",
+          1,
+          "HDR-M-2.54_1X1",
+          "J3",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "Fil bleu",
+          1,
+          "HDR-M-2.54_1X1",
+          "B",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "Fil marron",
+          1,
+          "HDR-M-2.54_1X1",
+          "M",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "fil",
+          4,
+          "L0603",
+          "L1,ST3,ST7,ST2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "c97065da658549e98f95ac59a402a593",
+            "uuid": "a4eacdcb63554cb08b3b56477817ab57"
+          }
+        ],
+        [
+          "?mH",
+          2,
+          "L0603",
+          "L3,L2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "c97065da658549e98f95ac59a402a593",
+            "uuid": "a4eacdcb63554cb08b3b56477817ab57"
+          }
+        ],
+        [
+          "?",
+          1,
+          "",
+          "COM1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "ada16493d00d4c13a2b46f08d4eecd88"
+          }
+        ],
+        [
+          "NC thermal switch",
+          1,
+          "SWITCH-SPDT",
+          "CCT1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "582b2812f92d48e28e764ee23b4c002a",
+            "uuid": "e4c84881bf28415ba8c64ccfa188e4f7"
+          }
+        ],
+        [
+          "4MHz",
+          1,
+          "RESONATOR-PTH",
+          "X1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "321395bea2cf4642970478510e82a223",
+            "uuid": "e7d3448bba334d44bb6c7a457f5f4175"
+          }
+        ],
+        [
+          "Vf=0.65V",
+          1,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "8d946c7f61b247e5a163a1477fd9299f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "?",
+          3,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1,D3,D2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "8d946c7f61b247e5a163a1477fd9299f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "470uF 25v",
+          1,
+          "CASE-A_3216",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "60-MEC0 1225P8H",
+          1,
+          "",
+          "UC1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "",
+            "uuid": "fc572ebb78c842809cb573e783b220cf"
+          }
+        ],
+        [
+          "2.5k",
+          2,
+          "RES-ADJ-TH_3386P",
+          "POT1,POT2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce6e0cc9b0684cd986edbf86d7075dfd",
+            "uuid": "fcaba4851eda4ca19d4326a668633a30"
+          }
+        ],
+        [
+          "?",
+          10,
+          "C0603",
+          "C10,C3,C2,C8,C4,C6,C14,C5,C11,C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f187d3c25f9f43a29b67d3cfa364ee78",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ]
+      ],
+      "updateTime": 1616351977,
+      "createTime": 1616250474,
+      "histories": [],
+      "created_at": "2021-03-20 15:27:54",
+      "updated_at": "2021-03-21 19:39:37"
+    }
+  ],
+  "sort": [],
+  "title": "Carte thermostat",
+  "foldername": "Carte thermostat",
+  "schfilename": "Carte thermostat.json",
+  "schfilemtime": 1616351977906
+}
