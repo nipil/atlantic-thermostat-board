@@ -24,6 +24,10 @@ Voici un aperçu du résultat (regardez le fichier GIMP pour naviguer dans les c
 
 ![analyse des traces](https://github.com/nipil/atlantic-thermostat-board/raw/master/Photo-pistes-composants/atlantic-termostat-traces-thumb.png)
 
+Et j'ai ensuite redessiné ça en blocs fonctionnels "intelligibles" dans [EasyEDA](https://easyeda.com/) :
+
+![schémas des blocs fonctionnesl](https://github.com/nipil/atlantic-thermostat-board/raw/master/Schematic-EasyEDA/Schematic_Carte%20thermostat_thumb.png)
+
 # Liste des composants
 
 Shunts:
@@ -100,7 +104,7 @@ Puissance:
 
 Contrôle:
 
-- CCT1: OTTER H11 W#475 coupe-circuit de sécurité thermique à réponse rapide et réarmement automatique
+- CCT1: OTTER H11 23006444E W#475 coupe-circuit de sécurité thermique à réponse rapide et réarmement automatique
 - UC1: 60-MEC0 ou 60-MECO, 18 pin DIP package
 - X1: résonateur céramique Murata CSTLS_G 4Mhz (?)
 - COM1: commutateur (1 position off séparée + 4 positions hors-gel/prog/eco/confort à base commune)
