@@ -86,12 +86,13 @@ Inductances:
 Diodes:
 
 - DZ1: BZX 5V6 diode zener Vz=5.6v Vf=1v
-- D1: 1N4007 (?)
-- D2: 1N4007 (?) 
-- D3: 1N4007 (?)
-- LD1: Vf=1.7v@10mA (3mm?)
-- LD2: Vf=1.7v@10mA (3mm?)
-- LD3: Vf=1.7v@10mA (3mm?)
+- D1: 1N4007 (?) Vf=0.7v
+- D2: 1N4007 (?) Vf=0.7v
+- D3: 1N4007 (?) Vf=0.7v
+- D4: 1N4007 (?) Vf=0.7v
+- LD1: Vf=1.7v@10mA (3mm?) pour le mode éco
+- LD2: Vf=1.7v@10mA (3mm?) pour le mode confort
+- LD3: Vf=1.7v@10mA (3mm?) pour la chauffe
 
 Puissance:
 
@@ -101,5 +102,5 @@ Contrôle:
 
 - CCT1: OTTER H11 W#475 coupe-circuit de sécurité thermique à réponse rapide et réarmement automatique
 - UC1: 60-MEC0 ou 60-MECO, 18 pin DIP package
-- X1: résonateur céramique 4Mhz (?)
+- X1: résonateur céramique Murata CSTLS_G 4Mhz (?)
 - COM1: commutateur (1 position off séparée + 4 positions hors-gel/prog/eco/confort à base commune)
