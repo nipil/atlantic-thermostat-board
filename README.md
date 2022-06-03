@@ -6,7 +6,7 @@ Le présent projet a pour but de consolider tout ce que j'ai analysé et compris
 
 *Je partage ce travail ici uniquement pour que ça puisse servir à d'autres que moi-même, cependant je n'assurerai aucun support technique, ni ne répondrait aux questions concernant les éventuels problèmes de radiateur que vous pourriez rencontrer, que ça soit avec ce type de carte thermostat, une autre carte, ou autre.*
 
-J'ai aussi effectué quelques mesures de courant sur le fil pilote à l'aide d'une résistance de shunt et le courant circulant dans le fil pilote suivait une courbe sinusoïdale à 50Hz avec pic à 1.8mA, donc un courant alternatif à 1.3mA RMS.
+J'ai aussi effectué quelques mesures de courant sur le fil pilote à l'aide d'une résistance de shunt et le courant circulant dans le fil pilote suivait une courbe sinusoïdale à 50Hz avec pic à 1.8mA, donc un courant alternatif à 1.3mA RMS (pour un total de 230V RMS * 1.3mA RMS = 0.3W RMS de puissance consommée par radiateur pour le fil pilote)
 
 # La carte thermostat
 
