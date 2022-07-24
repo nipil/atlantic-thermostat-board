@@ -1,3 +1,7 @@
+# ARCHIVE
+
+Ce dépot a été archivé et ne sera plus modifié.
+
 # A propos
 
 Suite à la panne d'un radiateur électrique Atlantic, j'ai dû réparer la carte thermostat. Même s'il ne s'agissait que d'un condensateur électrolytique 470uF 25v à remplacer, j'ai décidé de comprendre comment la carte fonctionne.
